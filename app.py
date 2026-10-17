@@ -1,4 +1,4 @@
-
+```python
 import streamlit as st
 import pandas as pd
 import datetime
@@ -43,5 +43,3 @@ with tab3:
     st.header("📲 Simulasi Alert Telegram")
     st.code("[ALERT SCM] Stok Daging Ayam Segar KRITIS (4.0 kg < Buffer 5.0 kg). Rekomendasi Auto-PO: 21.0 kg.", language="markdown")
 ```
-
----
